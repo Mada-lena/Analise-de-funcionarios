@@ -47,6 +47,6 @@ Os dados contêm informações sobre 234 funcionários, incluindo:
 ## Imagem do Dashboard
 <img width="850" height="326" alt="image" src="https://github.com/user-attachments/assets/e5b9b6d2-dcf5-4abe-9d05-5253b7cc5317" />
  
-![Distribuição Geográfica](imagens/grafico_cidade.png)
+
 
 ---
