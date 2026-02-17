@@ -15,13 +15,13 @@ Os dados contêm informações sobre 234 funcionários, incluindo:
 - Cargo (Estagiário, Analista, Coordenador, Gerente, Diretor)  
 - Carga horária média e horas extras  
 - Custo total por funcionário  
-- Desempenho (%)  
+- Desempenho por cargo (%)  
 - Cidade de atuação
 
 ## Principais Insights
 1. **Distribuição por Género e Custo**
-   - Mulheres: 120 funcionários, custo total 802.000 , média de 208 horas extras  
-   - Homens: 114 funcionários, custo total 944.000 Kz, média de 97 horas extras  
+   - Mulheres: 120 funcionários, custo total 802.000 , média de 103 horas extras  
+   - Homens: 114 funcionários, custo total 944.000 Kz, média de 11 horas extras  
    - Apesar de mulheres trabalharem mais horas extras, os homens têm maior custo total, evidenciando diferença hierárquica e salarial.
 
 2. **Análise por Cargo**
